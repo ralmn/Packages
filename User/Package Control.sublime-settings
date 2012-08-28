@@ -1,0 +1,24 @@
+{
+	"auto_upgrade_last_run": 1346179147,
+	"installed_packages":
+	[
+		"Alignment",
+		"Bracketeer",
+		"BracketHighlighter",
+		"CakePHP (tmbundle)",
+		"Code Alignment",
+		"LoremIpsum",
+		"LoremPixel",
+		"Package Control",
+		"Placeholders",
+		"Prefixr",
+		"Sass",
+		"SCSS Snippets",
+		"Search CakePHP API",
+		"Search CakePHP Book",
+		"SublimeCodeIntel",
+		"Symfony2 Snippets",
+		"Twitter Bootstrap Snippets",
+		"ZenCoding"
+	]
+}

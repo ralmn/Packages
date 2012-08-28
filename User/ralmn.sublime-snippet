@@ -1,0 +1,27 @@
+<snippet>
+    <content><![CDATA[
+    	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    	]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>metaUtf8</tabTrigger>
+    <!-- Optional: Description to show in the menu -->
+    <description>Html UtF8 Balice</description>
+</snippet>
+
+<snippet>
+    <content><![CDATA[
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+    	]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>bootcss</tabTrigger>
+    <!-- Optional: Description to show in the menu -->
+    <description>HTML - Importation du css de bootstrap</description>
+</snippet>
+
+
+
+
+
+
+
+

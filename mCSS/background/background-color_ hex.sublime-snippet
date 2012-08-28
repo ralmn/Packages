@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[background-color: #${1:ddd};$0]]></content>
+    <description>background-color: hex</description>
+    <scope>source.css</scope>
+    <tabTrigger>bgc</tabTrigger>
+</snippet>

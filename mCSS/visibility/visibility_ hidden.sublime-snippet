@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[visibility: hidden;$0]]></content>
+    <description>visibility: hidden</description>
+    <scope>source.css</scope>
+    <tabTrigger>v</tabTrigger>
+</snippet>

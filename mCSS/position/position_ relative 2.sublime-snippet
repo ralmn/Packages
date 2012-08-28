@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[position: relative;$0]]></content>
+    <description>position: relative</description>
+    <scope>source.css</scope>
+    <tabTrigger>por</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[list-style-image: none;$0]]></content>
+    <description>list-style-image: none</description>
+    <scope>source.css</scope>
+    <tabTrigger>lsi</tabTrigger>
+</snippet>

@@ -1,0 +1,26 @@
+[
+
+// Alignment
+	{ "keys": ["ctrl+shift+f"], "command": "alignment"  ,  "context":
+		[
+			{ "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+		]
+	},
+	/*
+	* Zen coding
+	* http://www.sublimetext.com/forum/viewtopic.php?f=2&t=2633
+	**/ 
+	{ "keys" : ["ctrl+e"],"command" : "wrap_zen_as_you_type",  "context":
+		[
+			{ "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+		]
+	},
+	{ "keys": ["ctrl+shift+d"], "command": "reindent"  ,  "context":
+		[
+			{ "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+		]
+	},
+
+	{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} }
+
+]

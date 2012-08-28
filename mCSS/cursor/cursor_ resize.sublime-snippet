@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cursor: resize;$0]]></content>
+    <description>cursor: resize</description>
+    <scope>source.css</scope>
+    <tabTrigger>cu</tabTrigger>
+</snippet>

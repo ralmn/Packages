@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[white-space: nowrap;$0]]></content>
+    <description>white-space: nowrap</description>
+    <scope>source.css</scope>
+    <tabTrigger>ws</tabTrigger>
+</snippet>

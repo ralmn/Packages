@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[direction: rtl;$0]]></content>
+    <description>direction: rtl</description>
+    <scope>source.css</scope>
+    <tabTrigger>dir</tabTrigger>
+</snippet>
