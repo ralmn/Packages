@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1346179147,
+	"auto_upgrade_last_run": 1346343787,
 	"installed_packages":
 	[
 		"Alignment",
@@ -16,6 +16,7 @@
 		"SCSS Snippets",
 		"Search CakePHP API",
 		"Search CakePHP Book",
+		"Sublime Tweet",
 		"SublimeCodeIntel",
 		"Symfony2 Snippets",
 		"Twitter Bootstrap Snippets",
