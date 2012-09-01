@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1346343787,
+	"auto_upgrade_last_run": 1346538283,
 	"installed_packages":
 	[
 		"Alignment",
@@ -10,6 +10,7 @@
 		"LoremIpsum",
 		"LoremPixel",
 		"Package Control",
+		"pastebin-sublime-plugin",
 		"Placeholders",
 		"Prefixr",
 		"Sass",
