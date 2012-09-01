@@ -6,6 +6,10 @@
     {
         "caption": "Twitter timeline",
         "command": "read_tweets"
+    },
+    {
+        "caption": "Twitter mentions",
+        "command": "read_mentions"
     }
 
 ]

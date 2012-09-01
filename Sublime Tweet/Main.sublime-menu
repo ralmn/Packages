@@ -12,6 +12,10 @@
             {
                 "command": "read_tweets",
                 "caption": "Read twitter timeline"
+            },
+            {
+                "command": "read_mentions",
+                "caption": "Read twitter mentions"
             }
         ]
     }
